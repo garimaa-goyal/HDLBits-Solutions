@@ -22,7 +22,7 @@ module top_module(
             state <= B;
        
         else 
-			state <= next_state;
+	  state <= next_state;
         
     end
 
